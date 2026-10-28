@@ -1,1 +1,3 @@
 Hello Git
+new thing in master
+Some new local change
